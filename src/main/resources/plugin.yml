@@ -1,0 +1,6 @@
+name: NumberFormat
+version: '${project.version}'
+main: me.qingshou.numberformat.Main
+authors: [ QingShou ]
+depend:
+  - SimpleLib
